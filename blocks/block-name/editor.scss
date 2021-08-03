@@ -1,0 +1,39 @@
+.wp-block-starter-npm-signs {
+	border: 2px dashed #eca136;
+	position: relative;
+	padding: 28px 15px 15px;
+
+	&:before {
+		background-color: #eca136;
+		content: 'starterNPM';
+		font-family: sans-serif;
+		font-size: 12px;
+		color: #fff;
+		padding: 1px 5px;
+		display: inline-block;
+		font-weight: bold;
+		position: absolute;
+		left: -2px;
+		top: -2px;
+	}
+
+	.components-base-control__label {
+		display: block;
+	}
+
+	.components-select-control__input {
+		line-height: normal !important;
+		height: initial !important;
+		width: 100% !important;
+		max-width: none !important;
+	}
+}
+
+.is-selected .wp-block-starter-npm-signs {
+	border: 2px dashed darken(#eca136, 5%);
+
+	&:before {
+		background-color: darken(#eca136, 5%);
+	}
+}
+

@@ -1,0 +1,18 @@
+{
+    "/dist/blocks/block-name/editor.js": "/dist/blocks/block-name/editor.js",
+    "/dist/blocks/block-name/editor.js.map": "/dist/blocks/block-name/editor.js.map",
+    "/dist/blocks/block-name/view.js": "/dist/blocks/block-name/view.js",
+    "/dist/blocks/block-name/view.js.map": "/dist/blocks/block-name/view.js.map",
+    "/dist/js/admin.js": "/dist/js/admin.js",
+    "/dist/css/styles.css": "/dist/css/styles.css",
+    "/dist/css/admin.css": "/dist/css/admin.css",
+    "/dist/blocks/block-name/editor.css": "/dist/blocks/block-name/editor.css",
+    "/dist/blocks/block-name/view.css": "/dist/blocks/block-name/view.css",
+    "/dist/js/admin.js.map": "/dist/js/admin.js.map",
+    "/dist/css/styles.css.map": "/dist/css/styles.css.map",
+    "/dist/css/admin.css.map": "/dist/css/admin.css.map",
+    "/dist/blocks/block-name/editor.css.map": "/dist/blocks/block-name/editor.css.map",
+    "/dist/blocks/block-name/view.css.map": "/dist/blocks/block-name/view.css.map",
+    "/dist/js/scripts.js": "/dist/js/scripts.js",
+    "/dist/js/scripts.js.map": "/dist/js/scripts.js.map"
+}

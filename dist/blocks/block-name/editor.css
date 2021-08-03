@@ -1,0 +1,35 @@
+.wp-block-starter-npm-signs {
+  border: 2px dashed #eca136;
+  position: relative;
+  padding: 28px 15px 15px;
+}
+.wp-block-starter-npm-signs:before {
+  background-color: #eca136;
+  content: "starterNPM";
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #fff;
+  padding: 1px 5px;
+  display: inline-block;
+  font-weight: bold;
+  position: absolute;
+  left: -2px;
+  top: -2px;
+}
+.wp-block-starter-npm-signs .components-base-control__label {
+  display: block;
+}
+.wp-block-starter-npm-signs .components-select-control__input {
+  line-height: normal !important;
+  height: initial !important;
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.is-selected .wp-block-starter-npm-signs {
+  border: 2px dashed #ea961f;
+}
+.is-selected .wp-block-starter-npm-signs:before {
+  background-color: #ea961f;
+}
+/*# sourceMappingURL=editor.css.map*/
